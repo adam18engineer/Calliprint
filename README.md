@@ -1,5 +1,5 @@
 ## Author:
-	Michael Azeroual - 342532421
+	Michael Adam - 342532421
 
 
 ## Installation
